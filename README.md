@@ -6,7 +6,7 @@ I'm a software engineer at [Jacaranda Health](https://jacarandahealth.org), wher
 
 - **Backend APIs and data**: services that manage enrollment, consent and programme data for mothers using our SMS and chat platforms (Python, PostgreSQL)
 - **Messaging at scale**: RapidPro integrations and migrations that keep health messages flowing as we expand to new countries
-- **NLP for health**: models and pipelines that help route messages from mothers to the right support
+- **AI/ML for health**: models and pipelines that help route messages from mothers to the right support
 - **Internal tools**: forms, task tracking and infrastructure that help our clinical and programme teams move faster
 
 **Side projects**
