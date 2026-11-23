@@ -11,7 +11,7 @@ I'm a software engineer at [Jacaranda Health](https://jacarandahealth.org), wher
 
 **Side projects**
 
-- [fhir-ai-agent-system](https://github.com/sylviawanjiku/fhir-ai-agent-system): a self-hosted AI agent system that turns legacy health records into FHIR-compliant resources
+- **fhir-ai-agent-system** (private, in progress): a self-hosted AI agent system that turns legacy health records into FHIR-compliant resources
 - [whimsy-themes](https://github.com/sylviawanjiku/whimsy-themes): pastel colour themes for VS Code and Cursor
 - [side-quests](https://github.com/sylviawanjiku/side-quests): a whimsical kanban for side projects (web app and Chrome extension)
 
