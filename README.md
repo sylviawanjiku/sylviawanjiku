@@ -1,6 +1,6 @@
 ### Hi, I'm Sylvia 👋
 
-I'm a software engineer at [Jacaranda Health](https://jacarandahealth.org). Mothers shouldn't die because care came too late. I build the tech that helps close that gap across Kenya, Ghana, Nigeria and Tanzania.
+I'm a engineering manager/ software engineer at [Jacaranda Health](https://jacarandahealth.org). Mothers shouldn't die because care came too late. I build the tech that helps close that gap across Kenya, Ghana, Nigeria and Tanzania.
 
 **🛠️ What I work on**
 
